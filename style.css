@@ -9,7 +9,7 @@
 section {
   padding: 100px;
 }
-/* Top Nav Bar Design*/
+/* aqui puse la barra de navegacion*/
 header.sticky {
   background: #fff;
   padding: 20px 100px;
@@ -56,7 +56,7 @@ header ul li a {
   color: #fff;
   margin: 0 15px;
 }
-/*Banner design*/
+/*diseño de la img principal*/
 .banner {
   position: relative;
   min-height: 100vh;
@@ -96,7 +96,7 @@ header ul li a {
   text-decoration: none;
   letter-spacing: 2px;
 }
-/*section design*/
+/*diseño de la sección*/
 .heading.white {
   color: #fff;
 }
@@ -127,7 +127,7 @@ header ul li a {
 img {
   max-width: 100%;
 }
-/*Services section design*/
+/*servicios*/
 .services {
   background: #111;
 }
@@ -170,7 +170,7 @@ img {
 .services .content .servicesbox p {
   font-size: 15px;
 }
-/*work section design*/
+/*wseccion de trabajo*/
 .work .content {
   display: flex;
   justify-content: space-between;
@@ -183,7 +183,7 @@ img {
 .work .content .workbox img {
   max-width: 100%;
 }
-/*testimonial design section */
+/*seccion de clientes */
 .testimonials {
   background: #f7f7f7;
 }
@@ -298,7 +298,7 @@ img {
   text-align: center;
   padding: 10px;
 }
-/*Responsive part*/
+/*aqui esta la parte del diseño responsivo profe :)*/
 
 @media (max-width: 991px) {
   header, header.sticky {
